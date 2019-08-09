@@ -30,7 +30,13 @@
 *.exe
 *.out
 *.app
-#/.vs
-/packages/*
-/bin/*
-
+/Core/bin/
+/Core/obj/
+/Database/bin/
+/Database/obj/
+/Tests/bin/
+/Tests/obj/
+/Utils/bin/
+/Utils/obj/
+/gitattributes
+/packages/
